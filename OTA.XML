@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&flid=45777</RomUrl>
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?w=files&amp;flid=45777</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
