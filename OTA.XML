@@ -15,10 +15,10 @@
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-                <SlimGappsUrl
-                id="slim_gapps"
-                title="SlimGApps"
-                description="Download latest SlimGApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
+            <SlimGappsUrl
+            	id="slim_gapps"
+            	title="Slim GApps"
+            	description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
            <BanksGappsUrl
             	id="banks_gapps"
             	title="BaNkS Dynamic GApps"
