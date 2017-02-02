@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
         <Stable>
         <n7100>
-            <Filename>RR-N-v5.8.0-20170123-n7100-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170202-n7100-Milestone.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Build-3:Official"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=817550096634740967</RomUrl>
+                title="Build-4:Milestone"
+                description="Download ResurrectionRemix builds">downloads.resurrectionremix.com/n7100</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
