@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Build-4:Milestone"
-                description="Download ResurrectionRemix builds">downloads.resurrectionremix.com/n7100</RomUrl>
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/n7100</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
