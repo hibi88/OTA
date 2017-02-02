@@ -5,7 +5,7 @@
             <Filename>RR-N-v5.8.1-20170202-n7100-Milestone.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Build-4:Milestone"
+                title="build-4:Milestone"
                 description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/n7100</RomUrl>
             <ChangelogUrl
                 id="changelog"
