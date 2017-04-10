@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
         <Stable>
         <n7100>
-            <Filename>RR-N-v5.8.2-20170318-n7100-Milestone.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170408-n7100-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Build-6:Official"
