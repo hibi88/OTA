@@ -2,19 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
         <Stable>
         <n7100>
-            <Filename>RR-N-v5.8.2-20170408-n7100-Official.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170419-n7100-Milestone.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Build-7:Official"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=529152257862718283</RomUrl>
+                title="Build-8:Milestone"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=673368273298948858</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
-            	id="open_gapps"
-            	title="Open Gapps"
-                description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+            	id="Beans Gapps"
+            	title="Beans Dynamic Gapps"
+                description="Download Latest Beans Dynamic GApps">https://www.androidfilehost.com/?fid=745425885120724534</OpenGappsUrl>
 	</n7100>
     </Stable>
 </SlimOTA>
